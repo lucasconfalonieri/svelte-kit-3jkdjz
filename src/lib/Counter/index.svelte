@@ -18,6 +18,7 @@
 		<svg aria-hidden="true" viewBox="0 0 1 1">
 			<path d="M0,0.5 L1,0.5"></path>
 		</svg>
+		<span class = ucp>ucsp</span>
 	</button>
 
 	<div class="counter-viewport">
@@ -40,6 +41,10 @@
 		border-top: 1px solid rgba(0,0,0,0.1);
 		border-bottom: 1px solid rgba(0,0,0,0.1);
 		margin: 1rem 0;
+	}
+
+	.ucp{
+		color: blue;
 	}
 
 	.counter button.disabled {
